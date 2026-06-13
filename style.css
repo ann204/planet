@@ -1,0 +1,24 @@
+body {
+  background-color: #0b1026;  
+  color: #ffffff;
+  font-size: 42px;
+  text-align: center;
+}
+
+header {
+  background-color: #ffd36e;
+  font-size: 28px;
+  text-align: center;
+}
+
+header {
+  color: #7dd3fc;
+  font-size: 18px;
+}
+
+footer{
+  border: 3px solid #89a8ff;
+}
+h2 {
+  color:pink;
+}
